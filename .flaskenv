@@ -1,0 +1,2 @@
+FLASK_APP=app
+#WERKZEUG_DEBUG_PIN=off

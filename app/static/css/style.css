@@ -1,0 +1,8 @@
+p {
+  opacity: 1;
+  transition: opacity 500ms;
+}
+
+p.timeout {
+  opacity: 0;
+}
