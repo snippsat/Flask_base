@@ -19,7 +19,3 @@ def create_db(app):
 #-- When database is created can comment out this line
 #-- If forget will not overwrite tables if they are already in the database
 create_db(create_app())
-
-
-
-
