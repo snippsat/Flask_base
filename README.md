@@ -2,7 +2,7 @@
 ---    
 
 This is a basic <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a> project setup,with a sqlite3 database.  
-This is for a tuturial for on <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a>
+This is a tutorial for <a href="https://flask.palletsprojects.com/en/2.2.x/">Flask</a>
 
 ![stronghold logo](https://imagizer.imageshack.com/img922/2610/7I9RE4.png)
 
